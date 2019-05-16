@@ -3,10 +3,10 @@
 ## Overview
 This repository contains a set of tutorials prepared for helping students get started analysing data using tools of the Python ecosystem. Each tutorial is presented as an independent Python notebook. We recommend to study them in the following order:
 
-1. [NumPy notebook](NumPy.ipynb)
-2. [pandas notebook](pandas.ipynb)
-3. [visualisation notebook](visualisation.ipynb)
-
+1. [NumPy notebook](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/NumPy.ipynb)
+2. [pandas notebook](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/pandas.ipynb)
+3. [visualisation notebook](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/visualisation.ipynb)
+ 
 Familiarity with Python is expected to follow the tutorials.
 
 ## How to run these notebooks

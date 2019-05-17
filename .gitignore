@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 data/*.txt
 data/*.xlsx
+.DS_Store

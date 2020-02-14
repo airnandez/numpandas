@@ -21,7 +21,7 @@ To run the notebooks of this repository you need a working Python environment wh
 
 The notebooks were verified to work with Python v3.7. We **strongly recommend** to use the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.
 
-Execute the notebooks as shown below:
+If you want to execute these notebooks in your own environment, proceed as shown below:
 
 ```
 $ git clone https://github.com/airnandez/numpandas.git
@@ -38,7 +38,7 @@ It was originally intended for students of the [DU Data Scientist](https://www.u
 
 
 ## License
-Copyright 2019 Fabio Hernandez
+Copyright 2020 Fabio Hernandez
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

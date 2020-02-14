@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 data/*.txt
 data/*.xlsx
+data/departements-region.csv
+data/*.parquet
 .DS_Store

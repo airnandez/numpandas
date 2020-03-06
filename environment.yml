@@ -8,3 +8,5 @@ dependencies:
   - dask
   - matplotlib
   - bokeh
+  - pyarrow
+  - fastparquet

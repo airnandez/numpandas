@@ -1,17 +1,18 @@
 # README
 
 ## Overview
-This repository contains a set of tutorials prepared for helping students get started analysing data using tools of the Python ecosystem. Each tutorial is presented as an independent Python notebook. We recommend to study them in the following order:
+This repository contains a set of tutorials prepared for helping students get started analysing data using tools of the Python ecosystem. Each tutorial is presented as an independent Python notebook and familiarity with Python is expected to follow them. We recommend to study them in the following order:
 
-1. [NumPy notebook](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/NumPy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/NumPy.ipynb)
-2. [pandas notebook](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb)
-3. [visualisation notebook](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb)
- 
-Familiarity with Python is expected to follow the tutorials.
+
+|     |  Notebook             | Google Collab  | Binder   |
+| --- |:----------------------| -------------- | -------- |
+| **1.**   | [NumPy](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/NumPy.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/NumPy.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2FNumPy.ipynb) |
+| **2.**   | [pandas](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2Fpandas.ipynb) |
+| **3.**   | [visualisation](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2F visualisation.ipynb) |
 
 ## How to run these notebooks
 
-To run the notebooks of this repository you need a working Python environment which includes:
+To run the notebooks of this repository on your own environment, you need a working Python environment which includes:
 
 * [NumPy](https://www.numpy.org) 
 * [pandas](https://pandas.pydata.org)

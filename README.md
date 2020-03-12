@@ -4,11 +4,18 @@
 This repository contains a set of tutorials prepared for helping students get started analysing data using tools of the Python ecosystem. Each tutorial is presented as an independent Python notebook and familiarity with Python is expected to follow them. We recommend to study them in the following order:
 
 
-|     |  Notebook             | Google Collab  | Binder   |
+|     |  Notebook             | Google Colab   | Binder   |
 | --- |:----------------------| -------------- | -------- |
 | **1.**   | [NumPy](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/NumPy.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/NumPy.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2FNumPy.ipynb) |
 | **2.**   | [pandas](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2Fpandas.ipynb) |
 | **3.**   | [visualisation](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2Fvisualisation.ipynb) |
+
+You may also want to look at the exercises proposed in the `exam` directory:
+
+| Notebook             | Google Colab   | Binder   |
+|:---------------------| -------------- | -------- |
+| [exercise](https://github.com/airnandez/numpandas/blob/master/exam/2019-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exam/2019-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2019-exam-with-answers.ipynb) |
+
 
 ## How to run these notebooks
 

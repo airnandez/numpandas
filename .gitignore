@@ -3,4 +3,6 @@ data/*.txt
 data/*.xlsx
 data/departements-region.csv
 data/*.parquet
+data/*-mutations-immobilieres.*
+data/prenoms-fr-*
 .DS_Store

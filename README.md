@@ -10,16 +10,17 @@ This repository contains a set of tutorials prepared for helping students get st
 | **2.**   | [pandas](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2Fpandas.ipynb) |
 | **3.**   | [visualisation](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2Fvisualisation.ipynb) |
 
-You may also want to look at the exercises proposed in the `exam` directory:
+You may also want to look at the exercises available in the `exam` directory:
 
 | Notebook             | Google Colab   | Binder   |
 |:---------------------| -------------- | -------- |
-| [exercise](https://github.com/airnandez/numpandas/blob/master/exam/2019-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exam/2019-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2019-exam-with-answers.ipynb) |
+| [exercise 2019](https://github.com/airnandez/numpandas/blob/master/exam/2019-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exam/2019-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2019-exam-with-answers.ipynb) |
+| [exercise 2020](https://github.com/airnandez/numpandas/blob/master/exam/2020-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exam/2020-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2020-exam-with-answers.ipynb) |
 
 
-## How to run these notebooks
+## How to run these notebooks in your computer
 
-To run the notebooks of this repository on your own environment, you need a working Python environment which includes:
+To run the notebooks of this repository on your own computer, you need a working Python environment which includes:
 
 * [NumPy](https://www.numpy.org) 
 * [pandas](https://pandas.pydata.org)
@@ -27,7 +28,7 @@ To run the notebooks of this repository on your own environment, you need a work
 * [bokeh](https://bokeh.pydata.org/en/latest/)
 * [Jupyter](https://jupyter.readthedocs.io/en/latest/#)
 
-The notebooks were verified to work with Python v3.7. We **strongly recommend** to use the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.
+The notebooks were verified to work with Python v3.7 and should work with more recent versions. We **strongly recommend** to use the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.
 
 If you want to execute these notebooks in your own environment, proceed as shown below:
 
@@ -36,6 +37,8 @@ $ git clone https://github.com/airnandez/numpandas.git
 $ cd numpandas
 $ jupyter lab
 ```
+
+You will find the notebooks ready to run in the `notebooks` directory.
 
 ## Credits
 

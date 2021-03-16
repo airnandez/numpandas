@@ -46,7 +46,7 @@ It was originally intended for students of the [DU Data Scientist](https://www.u
 
 
 ## License
-Copyright 2020 Fabio Hernandez
+Copyright 2019-2021 Fabio Hernandez
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

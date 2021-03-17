@@ -26,6 +26,7 @@ To run the notebooks of this repository on your own computer, you need a working
 * [pandas](https://pandas.pydata.org)
 * [matplotlib](https://matplotlib.org)
 * [bokeh](https://bokeh.pydata.org/en/latest/)
+* [requests](https://requests.readthedocs.io)
 * [Jupyter](https://jupyter.readthedocs.io/en/latest/#)
 
 The notebooks were verified to work with Python v3.7 and should work with more recent versions. We **strongly recommend** to use the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.

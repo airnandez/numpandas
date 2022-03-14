@@ -1,7 +1,9 @@
 # README
 
 ## Overview
-This repository contains a set of tutorials prepared for helping students get started analysing data using tools of the Python ecosystem. Each tutorial is presented as an independent Python notebook and familiarity with Python is expected to follow them. We recommend to study them in the following order:
+This repository contains a set of tutorials prepared for helping students get started analysing data using tools of the Python ecosystem.
+
+Each tutorial is presented as an independent Python notebook: familiarity with Python is expected to follow them. We recommend to study the tutorials in the following order:
 
 
 |     |  Notebook             | Google Colab   | Binder   |
@@ -32,7 +34,7 @@ To run the notebooks of this repository on your own computer, you need a working
 
 The notebooks were verified to work with Python v3.7 and should work with more recent versions. We **strongly recommend** to use the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.
 
-If you want to execute these notebooks in your own environment, proceed as shown below:
+To execute these notebooks in your own environment proceed as shown below:
 
 ```
 $ git clone https://github.com/airnandez/numpandas.git
@@ -47,11 +49,11 @@ You will find the notebooks ready to run in the `notebooks` directory.
 ### Author
 This material was developed and is maintained by Fabio Hernandez at [IN2P3 / CNRS computing center](http://cc.in2p3.fr) (Lyon, France). 
 
-It was originally intended for students of the [DU Data Scientist](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist-23438.kjsp) of the [Université Clermont-Auvergne](https://www.uca.fr) in France, but feel free to use it for other purposes as well.
+It was originally intended for students of the [DU Data Scientist](https://www.uca.fr/formation/nos-formations/catalogue-des-formations/du-data-scientist) of the [Université Clermont-Auvergne](https://www.uca.fr) in France, but feel free to use it for other purposes as well.
 
 
 ## License
-Copyright 2019-2021 Fabio Hernandez
+Copyright 2019-2022 Fabio Hernandez
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

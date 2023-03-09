@@ -1,7 +1,7 @@
 # README
 
 ## Overview
-This repository contains a set of tutorials prepared for helping students get started analysing data using tools of the Python ecosystem.
+This repository contains a set of tutorials prepared for helping readers get started analysing data using tools of the Python ecosystem.
 
 Each tutorial is presented as an independent Python notebook: familiarity with Python is expected to follow them. We recommend to study the tutorials in the following order:
 
@@ -12,14 +12,14 @@ Each tutorial is presented as an independent Python notebook: familiarity with P
 | **2.**   | [pandas](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb) |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/pandas.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2Fpandas.ipynb) |
 | **3.**   | [visualisation](https://nbviewer.jupyter.org/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/notebooks/visualisation.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=notebooks%2Fvisualisation.ipynb) |
 
-You may also want to look at the exercises available in the `exam` directory:
+You may also want to look at the exercises available in the `exercises` directory:
 
 | Notebook             | Google Colab   | Binder   |
 |:---------------------| -------------- | -------- |
-| [exercise 2019](https://github.com/airnandez/numpandas/blob/master/exam/2019-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exam/2019-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2019-exam-with-answers.ipynb) |
-| [exercise 2020](https://github.com/airnandez/numpandas/blob/master/exam/2020-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exam/2020-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2020-exam-with-answers.ipynb) |
-| [exercise 2021](https://github.com/airnandez/numpandas/blob/master/exam/2021-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exam/2021-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2021-exam-with-answers.ipynb) |
-| [exercise 2022](https://github.com/airnandez/numpandas/blob/master/exam/2022-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exam/2022-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2022-exam-with-answers.ipynb) |
+| [exercise 2019](https://github.com/airnandez/numpandas/blob/master/exercises/2019-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exercises/2019-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2019-exam-with-answers.ipynb) |
+| [exercise 2020](https://github.com/airnandez/numpandas/blob/master/exercises/2020-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exercises/2020-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2020-exam-with-answers.ipynb) |
+| [exercise 2021](https://github.com/airnandez/numpandas/blob/master/exercises/2021-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exercises/2021-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2021-exam-with-answers.ipynb) |
+| [exercise 2022](https://github.com/airnandez/numpandas/blob/master/exercises/2022-exam-with-answers.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/airnandez/numpandas/blob/master/exercises/2022-exam-with-answers.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/airnandez/numpandas/master?filepath=examp%2F2022-exam-with-answers.ipynb) |
 
 
 ## How to run these notebooks in your computer
@@ -33,7 +33,7 @@ To run the notebooks of this repository on your own computer, you need a working
 * [requests](https://requests.readthedocs.io)
 * [Jupyter](https://jupyter.readthedocs.io/en/latest/#)
 
-The notebooks were verified to work with Python v3.7 and should work with more recent versions. We **strongly recommend** to use the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.
+The notebooks were verified to work with Python v3.10 and should work with more recent versions. We **strongly recommend** to use the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.
 
 To execute these notebooks in your own environment proceed as shown below:
 
@@ -54,7 +54,7 @@ It was originally intended for students of the [DU Data Scientist](https://www.u
 
 
 ## License
-Copyright 2019-2022 Fabio Hernandez
+Copyright 2019-2023 Fabio Hernandez
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

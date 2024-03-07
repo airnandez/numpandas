@@ -9,4 +9,4 @@ dependencies:
   - numpy
   - pandas=1.5.3
   - pyarrow
-  - python=3.11
+  - python=3.10

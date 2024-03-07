@@ -1,0 +1,12 @@
+name: numpandas
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bokeh
+  - fastparquet
+  - matplotlib
+  - numpy
+  - pandas=1.5.3
+  - pyarrow
+  - python=3.10

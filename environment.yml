@@ -3,10 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - numpy
-  - pandas
-  - dask
-  - matplotlib
   - bokeh
-  - pyarrow
   - fastparquet
+  - matplotlib
+  - numpy
+  - pandas=1.5.3
+  - pyarrow
+  - python=3.11

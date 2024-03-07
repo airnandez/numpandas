@@ -2,4 +2,4 @@ all: clear
 
 clear:
 	make -C notebooks
-	make -C exam
+	make -C exercises

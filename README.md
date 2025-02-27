@@ -33,7 +33,7 @@ To run the notebooks of this repository on your own computer, you need a working
 * [requests](https://requests.readthedocs.io)
 * [Jupyter](https://jupyter.readthedocs.io/en/latest/#)
 
-The notebooks were verified to work with Python v3.12 and should work with more recent versions. We **strongly recommend** to use the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.
+The notebooks were verified to work with Python v3.12 and should work with more recent versions. You install the required packages on your computer, you may want to consider the [Anaconda](https://www.anaconda.com/distribution/) distribution, which already includes all the packages needed to execute these notebooks.
 
 To execute these notebooks in your own environment proceed as shown below:
 
@@ -54,7 +54,7 @@ It was originally intended for students of the [DU Data Scientist](https://www.u
 
 
 ## License
-Copyright 2019-2024 Fabio Hernandez
+Copyright 2019-2025 Fabio Hernandez
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

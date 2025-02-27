@@ -1,7 +1,6 @@
 name: numpandas
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - bokeh
   - fastparquet

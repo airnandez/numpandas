@@ -6,6 +6,6 @@ dependencies:
   - fastparquet
   - matplotlib
   - numpy
-  - pandas=1.2.2
+  - pandas=2.2.2
   - pyarrow
   - python=3.12
